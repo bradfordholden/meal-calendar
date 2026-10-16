@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bradfordholden//meal-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Holden dinners
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+UID:dinner-2026-10-19@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261016T155621Z
+DTSTART:20261019T213000Z
+DTEND:20261019T223000Z
+SUMMARY:Dinner: Slow-cooker turkey chili (double batch)
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/turkey
+ -chili/\nSlow cooker: start by 12:45 for a 5:30 dinner.\nPrep 25 min / Coo
+ k 4 to 5 h on low\nOriginal: https://www.tasteofhome.com/recipes/family-pl
+ easing-turkey-chili/
+URL:https://bradfordholden.github.io/meal-calendar/r/turkey-chili/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:start-2026-10-19@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261016T155621Z
+DTSTART:20261019T164500Z
+DTEND:20261019T170000Z
+SUMMARY:Start dinner: Slow-cooker turkey chili (double batch)
+DESCRIPTION:Slow cooker: start by 12:45 for a 5:30 dinner.\nRecipe: https:/
+ /bradfordholden.github.io/meal-calendar/r/turkey-chili/
+URL:https://bradfordholden.github.io/meal-calendar/r/turkey-chili/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-10-20@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261016T155621Z
+DTSTART:20261020T213000Z
+DTEND:20261020T223000Z
+SUMMARY:Dinner: Protein pasta with Rao's and ground beef\, roasted broccoli
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/protei
+ n-pasta-raos-beef/\nEasy night.\nPrep 10 min / Cook 20 min
+URL:https://bradfordholden.github.io/meal-calendar/r/protein-pasta-raos-bee
+ f/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-10-21@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261016T155621Z
+DTSTART:20261021T213000Z
+DTEND:20261021T223000Z
+SUMMARY:Dinner: Sheet-pan chicken fajitas
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/sheet-
+ pan-chicken-fajitas/\nSave 3 portions for rice-bowl lunches.\nPrep 20 min 
+ / Cook 25 min\nOriginal: https://www.tasteofhome.com/recipes/sheet-pan-chi
+ cken-fajitas/
+URL:https://bradfordholden.github.io/meal-calendar/r/sheet-pan-chicken-faji
+ tas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-10-22@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261016T155621Z
+DTSTART:20261022T213000Z
+DTEND:20261022T223000Z
+SUMMARY:Dinner: Blackened salmon rice bowls
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/blacke
+ ned-salmon-bowls/\nEasy night.\nPrep 10 min / Cook 20 min
+URL:https://bradfordholden.github.io/meal-calendar/r/blackened-salmon-bowls
+ /
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-10-23@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261016T155621Z
+DTSTART:20261023T213000Z
+DTEND:20261023T223000Z
+SUMMARY:Dinner: Butter chicken with spinach over rice
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/butter
+ -chicken-spinach/\nPrep 10 min / Cook 35 min\nOriginal: https://feelgoodfo
+ odie.net/recipe/easy-butter-chicken/
+URL:https://bradfordholden.github.io/meal-calendar/r/butter-chicken-spinach
+ /
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
