@@ -1,0 +1,30 @@
+{
+  "week_start": "2026-10-18",
+  "dinners": [
+    {
+      "date": "2026-10-18",
+      "recipe": "turkey-chili",
+      "start_at": "12:45",
+      "heads_up": "Slow cooker: start by 12:45 for a 5:30 dinner."
+    },
+    {
+      "date": "2026-10-19",
+      "recipe": "protein-pasta-raos-beef",
+      "heads_up": "Easy night."
+    },
+    {
+      "date": "2026-10-20",
+      "recipe": "sheet-pan-chicken-fajitas",
+      "heads_up": "Save 3 portions for rice-bowl lunches."
+    },
+    {
+      "date": "2026-10-21",
+      "recipe": "blackened-salmon-bowls",
+      "heads_up": "Easy night."
+    },
+    {
+      "date": "2026-10-22",
+      "recipe": "butter-chicken-spinach"
+    }
+  ]
+}

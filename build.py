@@ -216,7 +216,7 @@ def main():
             if d["recipe"] not in recipes:
                 raise SystemExit(f"{w['week_start']}: unknown recipe {d['recipe']!r}")
 
-    (ROOT / "meals.ics").write_text(build_ics(weeks, recipes), newline="")
+    (ROOT / "meals.ics").write_bytes(build_ics(weeks, recipes).encode())
     for slug, r in recipes.items():
         out = ROOT / "r" / slug
         out.mkdir(parents=True, exist_ok=True)
