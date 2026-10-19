@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
 UID:dinner-2026-10-18@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261016T160733Z
+DTSTAMP:20261019T173237Z
 DTSTART:20261018T213000Z
 DTEND:20261018T223000Z
 SUMMARY:Dinner: Slow-cooker turkey chili (double batch)
@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-10-18@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261016T160733Z
+DTSTAMP:20261019T173237Z
 DTSTART:20261018T164500Z
 DTEND:20261018T170000Z
 SUMMARY:Start dinner: Slow-cooker turkey chili (double batch)
@@ -33,21 +33,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-19@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261016T160733Z
+DTSTAMP:20261019T173237Z
 DTSTART:20261019T213000Z
 DTEND:20261019T223000Z
-SUMMARY:Dinner: Protein pasta with Rao's and ground beef\, roasted broccoli
-DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/protei
- n-pasta-raos-beef/\nEasy night.\nPrep 10 min / Cook 20 min
-URL:https://bradfordholden.github.io/meal-calendar/r/protein-pasta-raos-bee
- f/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:dinner-2026-10-20@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261016T160733Z
-DTSTART:20261020T213000Z
-DTEND:20261020T223000Z
 SUMMARY:Dinner: Sheet-pan chicken fajitas
 DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/sheet-
  pan-chicken-fajitas/\nSave 3 portions for rice-bowl lunches.\nPrep 20 min 
@@ -58,8 +46,20 @@ URL:https://bradfordholden.github.io/meal-calendar/r/sheet-pan-chicken-faji
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:dinner-2026-10-20@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261019T173237Z
+DTSTART:20261020T213000Z
+DTEND:20261020T223000Z
+SUMMARY:Dinner: Protein pasta with Rao's and ground beef\, roasted broccoli
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/protei
+ n-pasta-raos-beef/\nEasy night.\nPrep 10 min / Cook 20 min
+URL:https://bradfordholden.github.io/meal-calendar/r/protein-pasta-raos-bee
+ f/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:dinner-2026-10-21@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261016T160733Z
+DTSTAMP:20261019T173237Z
 DTSTART:20261021T213000Z
 DTEND:20261021T223000Z
 SUMMARY:Dinner: Blackened salmon rice bowls
@@ -71,7 +71,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-22@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261016T160733Z
+DTSTAMP:20261019T173237Z
 DTSTART:20261022T213000Z
 DTEND:20261022T223000Z
 SUMMARY:Dinner: Butter chicken with spinach over rice
