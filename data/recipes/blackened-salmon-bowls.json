@@ -8,12 +8,44 @@
     "Costco blackened salmon, 8 portions",
     "Rice, about 3 cups uncooked",
     "2 avocados, sliced",
-    "2 x 5 oz arugula",
+    "(2) 5 oz containers arugula",
     "Japanese BBQ sauce"
   ],
   "steps": [
-    "Start the rice.",
-    "Cook the salmon per the package directions.",
-    "Build bowls: rice, arugula, salmon, avocado, and a drizzle of Japanese BBQ sauce (go light, it's sweet)."
+    {
+      "do": "Start the rice.",
+      "need": [
+        [
+          "about 3 cups",
+          "rice, uncooked"
+        ]
+      ]
+    },
+    {
+      "do": "Cook the salmon per the package directions.",
+      "need": [
+        [
+          "8 portions",
+          "Costco blackened salmon"
+        ]
+      ]
+    },
+    {
+      "do": "Build bowls: rice, arugula, salmon, avocado, and a drizzle of Japanese BBQ sauce (go light, it's sweet).",
+      "need": [
+        [
+          "(2) 5 oz containers",
+          "arugula"
+        ],
+        [
+          "2",
+          "avocados, sliced"
+        ],
+        [
+          "",
+          "Japanese BBQ sauce"
+        ]
+      ]
+    }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "title": "Slow-cooker turkey chili (double batch)",
   "kind": "new",
-  "source": {"name": "Taste of Home: Family-Pleasing Turkey Chili", "url": "https://www.tasteofhome.com/recipes/family-pleasing-turkey-chili/"},
-  "photo": {"url": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Family-Pleasing-Turkey-Chili_EXPS_TOHSODA21_45357_E12_10_1b.jpg", "credit": "Taste of Home"},
+  "source": {
+    "name": "Taste of Home: Family-Pleasing Turkey Chili",
+    "url": "https://www.tasteofhome.com/recipes/family-pleasing-turkey-chili/"
+  },
+  "photo": {
+    "url": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Family-Pleasing-Turkey-Chili_EXPS_TOHSODA21_45357_E12_10_1b.jpg",
+    "credit": "Taste of Home"
+  },
   "portions": 8,
   "prep": "25 min",
   "cook": "4 to 5 h on low",
@@ -13,12 +19,12 @@
     "2 green bell peppers, finely chopped",
     "2 small red onions, finely chopped",
     "4 garlic cloves, minced",
-    "2 cans (28 oz) diced tomatoes, undrained",
-    "2 cans (16 oz) kidney beans, rinsed and drained",
-    "2 cans (15 oz) black beans, rinsed and drained",
+    "(2) 28 oz cans diced tomatoes, undrained",
+    "(2) 16 oz cans kidney beans, rinsed and drained",
+    "(2) 15 oz cans black beans, rinsed and drained",
     "3 1/2 cups low-sodium chicken broth (most of a 32 oz carton)",
     "3 1/2 cups frozen corn, thawed",
-    "2 cans (6 oz) tomato paste",
+    "(2) 6 oz cans tomato paste",
     "2 tbsp chili powder",
     "1 tsp black pepper",
     "1/2 tsp ground cumin",
@@ -26,10 +32,93 @@
     "To serve: plain Greek yogurt, shredded Mexican cheese, cilantro"
   ],
   "steps": [
-    "In a large skillet over medium-high heat, cook the turkey with the peppers and onions until the turkey is no longer pink, breaking it up as it cooks. This is a lot of meat, so do it in two batches if the pan is crowded. Add the garlic for the last minute, then drain.",
-    "Move everything to the slow cooker and stir in the tomatoes, beans, broth, corn, tomato paste and spices.",
-    "Cover and cook on low for 4 to 5 hours.",
-    "Serve topped with Greek yogurt, cheese and cilantro. Leftovers keep 4 days in the fridge and freeze well."
+    {
+      "do": "In a large skillet over medium-high heat, cook the turkey with the peppers and onions until the turkey is no longer pink, breaking it up as it cooks. This is a lot of meat, so do it in two batches if the pan is crowded. Add the garlic for the last minute, then drain.",
+      "need": [
+        [
+          "3 lb",
+          "lean ground turkey"
+        ],
+        [
+          "2",
+          "green bell peppers, finely chopped"
+        ],
+        [
+          "2 small",
+          "red onions, finely chopped"
+        ],
+        [
+          "4",
+          "garlic cloves, minced"
+        ]
+      ]
+    },
+    {
+      "do": "Move everything to the slow cooker and stir in the tomatoes, beans, broth, corn, tomato paste and spices.",
+      "need": [
+        [
+          "(2) 28 oz cans",
+          "diced tomatoes, undrained"
+        ],
+        [
+          "(2) 16 oz cans",
+          "kidney beans, rinsed"
+        ],
+        [
+          "(2) 15 oz cans",
+          "black beans, rinsed"
+        ],
+        [
+          "3 1/2 cups",
+          "low-sodium chicken broth"
+        ],
+        [
+          "3 1/2 cups",
+          "frozen corn, thawed"
+        ],
+        [
+          "(2) 6 oz cans",
+          "tomato paste"
+        ],
+        [
+          "2 tbsp",
+          "chili powder"
+        ],
+        [
+          "1 tsp",
+          "black pepper"
+        ],
+        [
+          "1/2 tsp",
+          "ground cumin"
+        ],
+        [
+          "1/2 tsp",
+          "garlic powder"
+        ]
+      ]
+    },
+    {
+      "do": "Cover and cook on low for 4 to 5 hours.",
+      "need": []
+    },
+    {
+      "do": "Serve topped with Greek yogurt, cheese and cilantro. Leftovers keep 4 days in the fridge and freeze well.",
+      "need": [
+        [
+          "",
+          "Greek yogurt"
+        ],
+        [
+          "",
+          "shredded Mexican cheese"
+        ],
+        [
+          "",
+          "cilantro"
+        ]
+      ]
+    }
   ],
   "changes": [
     "Double batch with 3 lb turkey instead of 2, so an adult portion hits 40g+ protein.",

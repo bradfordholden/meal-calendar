@@ -3,8 +3,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Blackened salmon rice bowls</title>
 <style>
-:root{--bg:#fbfaf7;--fg:#1f1d1a;--muted:#6b665e;--card:#fff;--line:#e6e1d8;--accent:#b4532a}
-@media (prefers-color-scheme:dark){:root{--bg:#171614;--fg:#ece8e1;--muted:#a39d93;--card:#211f1c;--line:#35322d;--accent:#e08a5f}}
+:root{--bg:#fbfaf7;--fg:#1f1d1a;--muted:#6b665e;--card:#fff;--line:#e6e1d8;--accent:#b4532a;--tint:#f5efe7}
+@media (prefers-color-scheme:dark){:root{--bg:#171614;--fg:#ece8e1;--muted:#a39d93;--card:#211f1c;--line:#35322d;--accent:#e08a5f;--tint:#2b2723}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
 main{max-width:680px;margin:0 auto;padding:24px 16px 48px}
@@ -21,10 +21,30 @@ ul,ol{padding-left:1.3rem}li{margin:4px 0}
 .day img,.day .ph{width:72px;height:72px;border-radius:8px;object-fit:cover;flex:none;background:var(--line)}
 .day b{display:block}.day span{color:var(--muted);font-size:.9rem}
 .tag{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--accent)}
+.steps-head,.step{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:8px}
+.steps-head{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;font-weight:600;color:var(--muted);padding:0 10px 6px}
+.steps-head span+span{padding-left:10px}
+.steps{list-style:none;padding:0;margin:0}
+.step{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;margin:0 0 8px}
+.do{display:flex;flex-direction:column;gap:6px}
+.do p{margin:0;font-size:.94rem;line-height:1.45}
+.n{flex:none;width:24px;height:24px;border-radius:50%;background:var(--accent);color:var(--bg);font-size:.8rem;font-weight:700;display:flex;align-items:center;justify-content:center}
+.need{list-style:none;margin:0;background:var(--tint);border-radius:8px;padding:8px 10px;font-size:.875rem;line-height:1.4;align-self:start}
+.need li{margin:0 0 6px}.need li:last-child{margin:0}
+.need .none{color:var(--muted)}
+@media (min-width:560px){
+.steps-head,.step{grid-template-columns:minmax(0,1.55fr) minmax(0,1fr);gap:12px}
+.steps-head{padding:0 12px 6px}.steps-head span:first-child{padding-left:40px}.steps-head span+span{padding-left:14px}
+.step{padding:12px;margin-bottom:10px}
+.do{flex-direction:row;gap:12px;align-items:flex-start}
+.n{width:28px;height:28px;font-size:.875rem}
+.do p{font-size:1rem;margin-top:2px}
+.need{padding:10px 14px;font-size:.94rem}
+}
 </style></head>
 <body><main><p class="meta"><a href="https://bradfordholden.github.io/meal-calendar/">This week</a></p>
 <div class="nophoto">No photo yet. Send one in the project thread.</div>
 <h1 style="margin-top:16px">Blackened salmon rice bowls</h1>
 <p class="meta">8 portions · Prep 10 min · Cook 20 min</p>
-<h2>Ingredients</h2><ul><li>Costco blackened salmon, 8 portions</li><li>Rice, about 3 cups uncooked</li><li>2 avocados, sliced</li><li>2 x 5 oz arugula</li><li>Japanese BBQ sauce</li></ul>
-<h2>Steps</h2><ol><li>Start the rice.</li><li>Cook the salmon per the package directions.</li><li>Build bowls: rice, arugula, salmon, avocado, and a drizzle of Japanese BBQ sauce (go light, it&#x27;s sweet).</li></ol></main></body></html>
+<h2>Ingredients</h2><ul><li>Costco blackened salmon, 8 portions</li><li>Rice, about 3 cups uncooked</li><li>2 avocados, sliced</li><li>(2) 5 oz containers arugula</li><li>Japanese BBQ sauce</li></ul>
+<h2>Steps</h2><div class="steps-head" aria-hidden="true"><span>Do this</span><span>You&#39;ll need</span></div><ol class="steps"><li class="step"><div class="do"><span class="n" aria-hidden="true">1</span><p>Start the rice.</p></div><ul class="need" aria-label="For step 1"><li><b>about 3 cups</b> rice, uncooked</li></ul></li><li class="step"><div class="do"><span class="n" aria-hidden="true">2</span><p>Cook the salmon per the package directions.</p></div><ul class="need" aria-label="For step 2"><li><b>8 portions</b> Costco blackened salmon</li></ul></li><li class="step"><div class="do"><span class="n" aria-hidden="true">3</span><p>Build bowls: rice, arugula, salmon, avocado, and a drizzle of Japanese BBQ sauce (go light, it&#x27;s sweet).</p></div><ul class="need" aria-label="For step 3"><li><b>(2) 5 oz containers</b> arugula</li><li><b>2</b> avocados, sliced</li><li>Japanese BBQ sauce</li></ul></li></ol></main></body></html>

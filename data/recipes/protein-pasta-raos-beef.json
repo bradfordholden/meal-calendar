@@ -7,14 +7,53 @@
   "ingredients": [
     "2 boxes protein pasta",
     "2.5 lb ground beef",
-    "2 jars (24 oz) Rao's marinara",
+    "(2) 24 oz jars Rao's marinara",
     "2 lb broccoli crowns, cut in florets",
     "Olive oil, salt, pepper"
   ],
   "steps": [
-    "Heat the oven to 425°F. Toss the broccoli with oil, salt and pepper and roast about 20 minutes, until browned at the edges.",
-    "Boil the pasta in salted water per the box.",
-    "Meanwhile brown the beef in a large pot, breaking it up. Drain if needed, add the Rao's and simmer until the pasta is ready.",
-    "Toss the drained pasta with the sauce and serve with the broccoli."
+    {
+      "do": "Heat the oven to 425°F. Toss the broccoli with oil, salt and pepper and roast about 20 minutes, until browned at the edges.",
+      "need": [
+        [
+          "2 lb",
+          "broccoli crowns, in florets"
+        ],
+        [
+          "",
+          "olive oil, salt, pepper"
+        ]
+      ]
+    },
+    {
+      "do": "Boil the pasta in salted water per the box.",
+      "need": [
+        [
+          "2 boxes",
+          "protein pasta"
+        ],
+        [
+          "",
+          "salt, for the water"
+        ]
+      ]
+    },
+    {
+      "do": "Meanwhile brown the beef in a large pot, breaking it up. Drain if needed, add the Rao's and simmer until the pasta is ready.",
+      "need": [
+        [
+          "2.5 lb",
+          "ground beef"
+        ],
+        [
+          "(2) 24 oz jars",
+          "Rao's marinara"
+        ]
+      ]
+    },
+    {
+      "do": "Toss the drained pasta with the sauce and serve with the broccoli.",
+      "need": []
+    }
   ]
 }

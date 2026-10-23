@@ -121,8 +121,8 @@ def build_ics(weeks, recipes):
 # ---------- web pages ----------
 
 CSS = """
-:root{--bg:#fbfaf7;--fg:#1f1d1a;--muted:#6b665e;--card:#fff;--line:#e6e1d8;--accent:#b4532a}
-@media (prefers-color-scheme:dark){:root{--bg:#171614;--fg:#ece8e1;--muted:#a39d93;--card:#211f1c;--line:#35322d;--accent:#e08a5f}}
+:root{--bg:#fbfaf7;--fg:#1f1d1a;--muted:#6b665e;--card:#fff;--line:#e6e1d8;--accent:#b4532a;--tint:#f5efe7}
+@media (prefers-color-scheme:dark){:root{--bg:#171614;--fg:#ece8e1;--muted:#a39d93;--card:#211f1c;--line:#35322d;--accent:#e08a5f;--tint:#2b2723}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
 main{max-width:680px;margin:0 auto;padding:24px 16px 48px}
@@ -139,6 +139,26 @@ ul,ol{padding-left:1.3rem}li{margin:4px 0}
 .day img,.day .ph{width:72px;height:72px;border-radius:8px;object-fit:cover;flex:none;background:var(--line)}
 .day b{display:block}.day span{color:var(--muted);font-size:.9rem}
 .tag{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--accent)}
+.steps-head,.step{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:8px}
+.steps-head{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;font-weight:600;color:var(--muted);padding:0 10px 6px}
+.steps-head span+span{padding-left:10px}
+.steps{list-style:none;padding:0;margin:0}
+.step{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;margin:0 0 8px}
+.do{display:flex;flex-direction:column;gap:6px}
+.do p{margin:0;font-size:.94rem;line-height:1.45}
+.n{flex:none;width:24px;height:24px;border-radius:50%;background:var(--accent);color:var(--bg);font-size:.8rem;font-weight:700;display:flex;align-items:center;justify-content:center}
+.need{list-style:none;margin:0;background:var(--tint);border-radius:8px;padding:8px 10px;font-size:.875rem;line-height:1.4;align-self:start}
+.need li{margin:0 0 6px}.need li:last-child{margin:0}
+.need .none{color:var(--muted)}
+@media (min-width:560px){
+.steps-head,.step{grid-template-columns:minmax(0,1.55fr) minmax(0,1fr);gap:12px}
+.steps-head{padding:0 12px 6px}.steps-head span:first-child{padding-left:40px}.steps-head span+span{padding-left:14px}
+.step{padding:12px;margin-bottom:10px}
+.do{flex-direction:row;gap:12px;align-items:flex-start}
+.n{width:28px;height:28px;font-size:.875rem}
+.do p{font-size:1rem;margin-top:2px}
+.need{padding:10px 14px;font-size:.94rem}
+}
 """
 
 
@@ -155,6 +175,27 @@ def page(title, body):
 <style>{CSS}</style></head>
 <body><main>{body}</main></body></html>
 """
+
+
+def steps_html(steps):
+    """Each step as a card: what to do on the left, what it uses on the right.
+
+    A step is {"do": text, "need": [[amount, item], ...]}. `need` lists only what
+    is new to that step; an ingredient split across steps appears in each with
+    the amount used there. A plain string step is shown with nothing on the right.
+    """
+    e = html.escape
+    rows = []
+    for i, s in enumerate(steps, 1):
+        s = {"do": s} if isinstance(s, str) else s
+        need = s.get("need", [])
+        items = "".join(f"<li><b>{e(a)}</b> {e(x)}</li>" if a else f"<li>{e(x)}</li>" for a, x in need)
+        right = (f'<ul class="need" aria-label="For step {i}">{items}</ul>' if need
+                 else '<ul class="need"><li class="none">Nothing new</li></ul>')
+        rows.append(f'<li class="step"><div class="do"><span class="n" aria-hidden="true">{i}</span>'
+                    f"<p>{e(s['do'])}</p></div>{right}</li>")
+    return ('<div class="steps-head" aria-hidden="true"><span>Do this</span><span>You&#39;ll need</span></div>'
+            '<ol class="steps">' + "".join(rows) + "</ol>")
 
 
 def recipe_page(slug, r):
@@ -180,7 +221,7 @@ def recipe_page(slug, r):
         parts.append('<div class="changes"><b>Our changes</b><ul>'
                      + "".join(f"<li>{e(c)}</li>" for c in r["changes"]) + "</ul></div>")
     parts.append("<h2>Ingredients</h2><ul>" + "".join(f"<li>{e(i)}</li>" for i in r["ingredients"]) + "</ul>")
-    parts.append("<h2>Steps</h2><ol>" + "".join(f"<li>{e(s)}</li>" for s in r["steps"]) + "</ol>")
+    parts.append("<h2>Steps</h2>" + steps_html(r["steps"]))
     if r.get("source"):
         parts.append(f'<p class="meta">Adapted from <a href="{e(r["source"]["url"])}">{e(r["source"]["name"])}</a>.</p>')
     return page(r["title"], "\n".join(parts))
@@ -215,6 +256,9 @@ def main():
         for d in w["dinners"]:
             if d["recipe"] not in recipes:
                 raise SystemExit(f"{w['week_start']}: unknown recipe {d['recipe']!r}")
+            actual = dt.date.fromisoformat(d["date"]).strftime("%a")
+            if d.get("day") and d["day"] != actual:
+                raise SystemExit(f"{d['date']} is a {actual}, but the plan says {d['day']}")
 
     (ROOT / "meals.ics").write_bytes(build_ics(weeks, recipes).encode())
     for slug, r in recipes.items():

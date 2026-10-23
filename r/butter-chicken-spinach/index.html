@@ -3,8 +3,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Butter chicken with spinach over rice</title>
 <style>
-:root{--bg:#fbfaf7;--fg:#1f1d1a;--muted:#6b665e;--card:#fff;--line:#e6e1d8;--accent:#b4532a}
-@media (prefers-color-scheme:dark){:root{--bg:#171614;--fg:#ece8e1;--muted:#a39d93;--card:#211f1c;--line:#35322d;--accent:#e08a5f}}
+:root{--bg:#fbfaf7;--fg:#1f1d1a;--muted:#6b665e;--card:#fff;--line:#e6e1d8;--accent:#b4532a;--tint:#f5efe7}
+@media (prefers-color-scheme:dark){:root{--bg:#171614;--fg:#ece8e1;--muted:#a39d93;--card:#211f1c;--line:#35322d;--accent:#e08a5f;--tint:#2b2723}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
 main{max-width:680px;margin:0 auto;padding:24px 16px 48px}
@@ -21,6 +21,26 @@ ul,ol{padding-left:1.3rem}li{margin:4px 0}
 .day img,.day .ph{width:72px;height:72px;border-radius:8px;object-fit:cover;flex:none;background:var(--line)}
 .day b{display:block}.day span{color:var(--muted);font-size:.9rem}
 .tag{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--accent)}
+.steps-head,.step{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:8px}
+.steps-head{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;font-weight:600;color:var(--muted);padding:0 10px 6px}
+.steps-head span+span{padding-left:10px}
+.steps{list-style:none;padding:0;margin:0}
+.step{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;margin:0 0 8px}
+.do{display:flex;flex-direction:column;gap:6px}
+.do p{margin:0;font-size:.94rem;line-height:1.45}
+.n{flex:none;width:24px;height:24px;border-radius:50%;background:var(--accent);color:var(--bg);font-size:.8rem;font-weight:700;display:flex;align-items:center;justify-content:center}
+.need{list-style:none;margin:0;background:var(--tint);border-radius:8px;padding:8px 10px;font-size:.875rem;line-height:1.4;align-self:start}
+.need li{margin:0 0 6px}.need li:last-child{margin:0}
+.need .none{color:var(--muted)}
+@media (min-width:560px){
+.steps-head,.step{grid-template-columns:minmax(0,1.55fr) minmax(0,1fr);gap:12px}
+.steps-head{padding:0 12px 6px}.steps-head span:first-child{padding-left:40px}.steps-head span+span{padding-left:14px}
+.step{padding:12px;margin-bottom:10px}
+.do{flex-direction:row;gap:12px;align-items:flex-start}
+.n{width:28px;height:28px;font-size:.875rem}
+.do p{font-size:1rem;margin-top:2px}
+.need{padding:10px 14px;font-size:.94rem}
+}
 </style></head>
 <body><main><p class="meta"><a href="https://bradfordholden.github.io/meal-calendar/">This week</a></p>
 <img class="photo" src="https://feelgoodfoodie.net/wp-content/uploads/2023/04/Easy-Butter-Chicken-11.jpg" alt="Butter chicken with spinach over rice" referrerpolicy="no-referrer" onerror="this.style.visibility=&#39;hidden&#39;">
@@ -28,6 +48,6 @@ ul,ol{padding-left:1.3rem}li{margin:4px 0}
 <h1 style="margin-top:16px">Butter chicken with spinach over rice</h1>
 <p class="meta">8 portions · Prep 10 min · Cook 35 min · Large deep skillet or Dutch oven · about 40g+ per adult portion, about 3g sugar</p>
 <div class="changes"><b>Our changes</b><ul><li>3 lb chicken instead of 2 and the sauce scaled 1.5x, so an adult portion hits 40g+ protein.</li><li>Baby spinach stirred in so it&#x27;s a complete meal.</li><li>Mustard seeds left out.</li></ul></div>
-<h2>Ingredients</h2><ul><li>3 lb chicken breast, cut in 3/4 inch chunks</li><li>1 1/2 tbsp butter and 1 1/2 tbsp olive oil</li><li>1 large yellow onion, finely diced</li><li>1 tbsp grated fresh ginger</li><li>4 to 5 garlic cloves, minced</li><li>1 1/2 tbsp garam masala</li><li>1 1/2 tsp each: chili powder, ground coriander, curry powder</li><li>3/4 of a 6 oz can tomato paste</li><li>1 jar (4 oz) red curry paste</li><li>1 1/2 tsp salt, 1/2 tsp black pepper</li><li>1 1/2 to 2 cans (14 oz) coconut milk (use both for a saucier dish)</li><li>10 oz baby spinach</li><li>To serve: rice, cilantro</li></ul>
-<h2>Steps</h2><ol><li>Start the rice.</li><li>Melt the butter with the oil in a large deep skillet over medium-high heat. Cook the onion until soft, about 5 minutes, then add the ginger and garlic for a minute.</li><li>Stir in the garam masala, chili powder, coriander and curry powder and toast for about 30 seconds, until fragrant.</li><li>Add the chicken, tomato paste, curry paste, salt and pepper and stir until the chicken is coated.</li><li>Pour in the coconut milk, bring to a boil, then turn down and simmer uncovered about 20 minutes, until the chicken is cooked and the sauce thickens.</li><li>Stir in the spinach a handful at a time until wilted. Serve over rice with cilantro.</li></ol>
+<h2>Ingredients</h2><ul><li>3 lb chicken breast, cut in 3/4 inch chunks</li><li>1 1/2 tbsp butter and 1 1/2 tbsp olive oil</li><li>1 large yellow onion, finely diced</li><li>1 tbsp grated fresh ginger</li><li>4 to 5 garlic cloves, minced</li><li>1 1/2 tbsp garam masala</li><li>1 1/2 tsp each: chili powder, ground coriander, curry powder</li><li>(3/4) 6 oz can tomato paste</li><li>(1) 4 oz jar red curry paste</li><li>1 1/2 tsp salt, 1/2 tsp black pepper</li><li>(1 1/2 to 2) 14 oz cans coconut milk (use both for a saucier dish)</li><li>10 oz baby spinach</li><li>To serve: rice, cilantro</li></ul>
+<h2>Steps</h2><div class="steps-head" aria-hidden="true"><span>Do this</span><span>You&#39;ll need</span></div><ol class="steps"><li class="step"><div class="do"><span class="n" aria-hidden="true">1</span><p>Start the rice.</p></div><ul class="need" aria-label="For step 1"><li>Rice</li></ul></li><li class="step"><div class="do"><span class="n" aria-hidden="true">2</span><p>Melt the butter with the oil in a large deep skillet over medium-high heat. Cook the onion until soft, about 5 minutes, then add the ginger and garlic for a minute.</p></div><ul class="need" aria-label="For step 2"><li><b>1 1/2 tbsp</b> butter</li><li><b>1 1/2 tbsp</b> olive oil</li><li><b>1 large</b> yellow onion, finely diced</li><li><b>1 tbsp</b> grated fresh ginger</li><li><b>4 to 5</b> garlic cloves, minced</li></ul></li><li class="step"><div class="do"><span class="n" aria-hidden="true">3</span><p>Stir in the garam masala, chili powder, coriander and curry powder and toast for about 30 seconds, until fragrant.</p></div><ul class="need" aria-label="For step 3"><li><b>1 1/2 tbsp</b> garam masala</li><li><b>1 1/2 tsp</b> chili powder</li><li><b>1 1/2 tsp</b> ground coriander</li><li><b>1 1/2 tsp</b> curry powder</li></ul></li><li class="step"><div class="do"><span class="n" aria-hidden="true">4</span><p>Add the chicken, tomato paste, curry paste, salt and pepper and stir until the chicken is coated.</p></div><ul class="need" aria-label="For step 4"><li><b>3 lb</b> chicken breast, in 3/4 inch chunks</li><li><b>(3/4) 6 oz can</b> tomato paste</li><li><b>(1) 4 oz jar</b> red curry paste</li><li><b>1 1/2 tsp</b> salt</li><li><b>1/2 tsp</b> black pepper</li></ul></li><li class="step"><div class="do"><span class="n" aria-hidden="true">5</span><p>Pour in the coconut milk, bring to a boil, then turn down and simmer uncovered about 20 minutes, until the chicken is cooked and the sauce thickens.</p></div><ul class="need" aria-label="For step 5"><li><b>(1 1/2 to 2) 14 oz cans</b> coconut milk (both for a saucier dish)</li></ul></li><li class="step"><div class="do"><span class="n" aria-hidden="true">6</span><p>Stir in the spinach a handful at a time until wilted. Serve over rice with cilantro.</p></div><ul class="need" aria-label="For step 6"><li><b>10 oz</b> baby spinach</li><li>Cilantro</li></ul></li></ol>
 <p class="meta">Adapted from <a href="https://feelgoodfoodie.net/recipe/easy-butter-chicken/">Feel Good Foodie: Easy Butter Chicken</a>.</p></main></body></html>
