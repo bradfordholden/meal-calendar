@@ -1,0 +1,99 @@
+{
+  "title": "Chicken noodle soup",
+  "kind": "new",
+  "source": {
+    "name": "Spend With Pennies: Homemade Chicken Noodle Soup",
+    "url": "https://www.spendwithpennies.com/homemade-chicken-noodle-soup/"
+  },
+  "photo": {
+    "url": "https://www.spendwithpennies.com/wp-content/uploads/2022/01/Homemade-Chicken-Noodle-Soup-SpendWithPennies-10.jpg",
+    "credit": "Spend With Pennies"
+  },
+  "portions": 8,
+  "prep": "10 min",
+  "cook": "25 min (about 35 total)",
+  "protein": "about 42g per adult portion, about 4g sugar",
+  "equipment": "Large soup pot (8 qt)",
+  "ingredients": [
+    "3 lb chicken breast (the leftover chicken, thawed), in 1/2 inch pieces",
+    "2 tbsp butter",
+    "2 yellow onions, diced",
+    "(1) quart bag frozen chopped carrot and celery (yours)",
+    "2 tsp poultry seasoning",
+    "2 tsp flour",
+    "Salt and pepper",
+    "(3) 32 oz cartons low-sodium chicken broth",
+    "(1) 12 oz bag wide egg noodles",
+    "3 tbsp fresh parsley, chopped (optional)"
+  ],
+  "steps": [
+    {
+      "do": "Melt the butter in a large pot over medium heat and cook the onions until they start to soften, about 4 minutes. Meanwhile cut the chicken into 1/2 inch pieces.",
+      "need": [
+        [
+          "2 tbsp",
+          "butter"
+        ],
+        [
+          "2",
+          "yellow onions, diced"
+        ],
+        [
+          "3 lb",
+          "chicken breast"
+        ]
+      ]
+    },
+    {
+      "do": "Add the frozen carrot and celery and cook a few minutes until thawed. Stir in the poultry seasoning, flour, salt and pepper for a minute.",
+      "need": [
+        [
+          "(1) quart bag",
+          "frozen carrot and celery"
+        ],
+        [
+          "2 tsp",
+          "poultry seasoning"
+        ],
+        [
+          "2 tsp",
+          "flour"
+        ],
+        [
+          "",
+          "salt, pepper"
+        ]
+      ]
+    },
+    {
+      "do": "Add the broth and the chicken, bring to a boil, and simmer 8 minutes.",
+      "need": [
+        [
+          "(3) 32 oz cartons",
+          "low-sodium chicken broth"
+        ]
+      ]
+    },
+    {
+      "do": "Stir in the noodles and simmer about 7 minutes more, until tender and the chicken is cooked through. Stir in the parsley.",
+      "need": [
+        [
+          "(1) 12 oz bag",
+          "wide egg noodles"
+        ],
+        [
+          "3 tbsp",
+          "parsley, chopped"
+        ]
+      ]
+    },
+    {
+      "do": "For lunches, the noodles soak up broth overnight; add a splash of broth or water when reheating.",
+      "need": []
+    }
+  ],
+  "changes": [
+    "Double batch with 3 lb raw chicken simmered in the broth (the original uses 2 cups cooked chicken), so an adult portion hits 40g+ protein.",
+    "Your frozen carrot and celery instead of fresh."
+  ]
+}

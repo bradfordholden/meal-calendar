@@ -1,0 +1,36 @@
+{
+  "week_start": "2026-10-25",
+  "dinners": [
+    {
+      "date": "2026-10-25",
+      "day": "Sun",
+      "recipe": "slow-cooker-yellow-chicken-curry",
+      "start_at": "13:00",
+      "heads_up": "Slow cooker: start by 1:00 on high for a 5:30 dinner. Move the flank steak to the fridge tonight for Monday."
+    },
+    {
+      "date": "2026-10-26",
+      "day": "Mon",
+      "recipe": "flank-steak-rice-bowls",
+      "heads_up": "About 35 min: start the rice and broccoli, then sear the steak."
+    },
+    {
+      "date": "2026-10-27",
+      "day": "Tue",
+      "recipe": "tuscan-salmon-spinach",
+      "heads_up": "About 30 min: start the rice first, salmon bakes on sheet pans. Move 3 lb chicken to the fridge tonight for Thursday's soup."
+    },
+    {
+      "date": "2026-10-28",
+      "day": "Wed",
+      "recipe": "crock-pot-beef",
+      "heads_up": "Pre-made crock pot meal: start it in the morning."
+    },
+    {
+      "date": "2026-10-29",
+      "day": "Thu",
+      "recipe": "chicken-noodle-soup",
+      "heads_up": "About 35 min, one pot."
+    }
+  ]
+}

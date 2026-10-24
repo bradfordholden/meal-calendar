@@ -1,0 +1,69 @@
+{
+  "title": "Flank steak rice bowls with Japanese BBQ sauce and roasted broccoli",
+  "kind": "favorite",
+  "portions": 8,
+  "prep": "10 min",
+  "cook": "25 min (about 35 total)",
+  "protein": "about 44g per adult portion",
+  "equipment": "Large cast iron skillet + sheet pan",
+  "ingredients": [
+    "3 lb flank steak (yours, thawed)",
+    "Salt, pepper, oil",
+    "Japanese BBQ sauce, for drizzling (sugary, so go light)",
+    "(4) broccoli crowns, about 2 lb, cut in florets",
+    "Rice"
+  ],
+  "steps": [
+    {
+      "do": "Heat the oven to 425°F and start the rice cooker.",
+      "need": [
+        [
+          "",
+          "rice"
+        ]
+      ]
+    },
+    {
+      "do": "Toss the broccoli with oil, salt and pepper on a sheet pan and roast about 20 minutes, until browned at the edges.",
+      "need": [
+        [
+          "(4) crowns",
+          "broccoli, in florets"
+        ],
+        [
+          "",
+          "oil, salt, pepper"
+        ]
+      ]
+    },
+    {
+      "do": "Meanwhile pat the steak dry, cut it in half to fit the pan, and season both sides with salt and pepper. Sear in a very hot oiled skillet 4 to 5 minutes per side, one half at a time, to 130°F for medium-rare.",
+      "need": [
+        [
+          "3 lb",
+          "flank steak"
+        ],
+        [
+          "",
+          "salt, pepper, oil"
+        ]
+      ]
+    },
+    {
+      "do": "Rest the steak 5 minutes, then slice thin across the grain.",
+      "need": []
+    },
+    {
+      "do": "Build bowls with rice, steak and broccoli, and drizzle with Japanese BBQ sauce.",
+      "need": [
+        [
+          "",
+          "Japanese BBQ sauce"
+        ]
+      ]
+    }
+  ],
+  "changes": [
+    "Your beef rice bowl favorite, made with the flank steak you have instead of ground beef."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Pre-made crock pot beef meal",
+  "kind": "favorite",
+  "portions": 8,
+  "ingredients": [
+    "Your pre-made crock pot beef meal"
+  ],
+  "steps": [
+    {
+      "do": "Start it in the crock pot in the morning, following its own directions.",
+      "need": [
+        [
+          "1",
+          "pre-made crock pot beef meal"
+        ]
+      ]
+    }
+  ]
+}
