@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
 UID:dinner-2026-10-18@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261018T213000Z
 DTEND:20261018T223000Z
 SUMMARY:Dinner: Slow-cooker turkey chili (double batch)
@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-10-18@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261018T164500Z
 DTEND:20261018T170000Z
 SUMMARY:Start dinner: Slow-cooker turkey chili (double batch)
@@ -33,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-19@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261019T213000Z
 DTEND:20261019T223000Z
 SUMMARY:Dinner: Sheet-pan chicken fajitas
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-20@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261020T213000Z
 DTEND:20261020T223000Z
 SUMMARY:Dinner: Protein pasta with Rao's and ground beef\, roasted broccoli
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-21@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261021T213000Z
 DTEND:20261021T223000Z
 SUMMARY:Dinner: Blackened salmon rice bowls
@@ -71,7 +71,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-22@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261022T213000Z
 DTEND:20261022T223000Z
 SUMMARY:Dinner: Butter chicken with spinach over rice
@@ -84,35 +84,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-25@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261025T213000Z
 DTEND:20261025T223000Z
-SUMMARY:Dinner: Slow cooker yellow chicken curry over rice
-DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/slow-c
- ooker-yellow-chicken-curry/\nSlow cooker: start by 1:00 on high for a 5:30
-  dinner. Move the flank steak to the fridge tonight for Monday.\nPrep 20 m
- in / Cook about 4 h on high\nOriginal: https://www.ambitiouskitchen.com/sl
- ow-cooker-yellow-chicken-curry/
-URL:https://bradfordholden.github.io/meal-calendar/r/slow-cooker-yellow-chi
- cken-curry/
+SUMMARY:Dinner: Slow cooker Thai peanut chicken with sweet potatoes over ri
+ ce
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/thai-p
+ eanut-chicken/\nSlow cooker: start by 1:30 on high for a 5:30 dinner.\nPre
+ p 15 min / Cook about 3 1/2 to 4 h on high\nOriginal: https://therealfoodd
+ ietitians.com/slow-cooker-thai-peanut-chicken/
+URL:https://bradfordholden.github.io/meal-calendar/r/thai-peanut-chicken/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-10-25@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
-DTSTART:20261025T170000Z
-DTEND:20261025T171500Z
-SUMMARY:Start dinner: Slow cooker yellow chicken curry over rice
-DESCRIPTION:Slow cooker: start by 1:00 on high for a 5:30 dinner. Move the 
- flank steak to the fridge tonight for Monday.\nRecipe: https://bradfordhol
- den.github.io/meal-calendar/r/slow-cooker-yellow-chicken-curry/
-URL:https://bradfordholden.github.io/meal-calendar/r/slow-cooker-yellow-chi
- cken-curry/
+DTSTAMP:20261025T165153Z
+DTSTART:20261025T173000Z
+DTEND:20261025T174500Z
+SUMMARY:Start dinner: Slow cooker Thai peanut chicken with sweet potatoes o
+ ver rice
+DESCRIPTION:Slow cooker: start by 1:30 on high for a 5:30 dinner.\nRecipe: 
+ https://bradfordholden.github.io/meal-calendar/r/thai-peanut-chicken/
+URL:https://bradfordholden.github.io/meal-calendar/r/thai-peanut-chicken/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-26@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261026T213000Z
 DTEND:20261026T223000Z
 SUMMARY:Dinner: Flank steak rice bowls with Japanese BBQ sauce and roasted 
@@ -126,7 +124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-27@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261027T213000Z
 DTEND:20261027T223000Z
 SUMMARY:Dinner: Creamy Tuscan salmon with spinach\, rice and green beans
@@ -140,7 +138,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-28@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261028T213000Z
 DTEND:20261028T223000Z
 SUMMARY:Dinner: Pre-made crock pot beef meal
@@ -151,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-29@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261024T143736Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261029T213000Z
 DTEND:20261029T223000Z
 SUMMARY:Dinner: Chicken noodle soup
