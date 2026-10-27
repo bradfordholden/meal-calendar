@@ -1,5 +1,5 @@
 {
-  "title": "Creamy Tuscan salmon with spinach, rice and green beans",
+  "title": "Creamy Tuscan salmon with spinach, rice and roasted green beans",
   "kind": "new",
   "source": {
     "name": "Natasha's Kitchen: Tuscan Salmon",
@@ -13,7 +13,7 @@
   "prep": "10 min",
   "cook": "20 min",
   "protein": "about 43g per adult portion, about 2g sugar",
-  "equipment": "2 sheet pans + large skillet",
+  "equipment": "2 ovens, 4 sheet pans (2 salmon, 2 green beans) + large skillet",
   "ingredients": [
     "3.5 lb salmon fillet, cut in 8 pieces",
     "1 tsp salt and a good shake of garlic & herb seasoning",
@@ -24,15 +24,27 @@
     "2 cups heavy cream",
     "1/2 cup finely shredded parmesan",
     "4 cups (about 5 oz) baby spinach",
-    "To serve: rice, (2) 12 oz bags frozen cut green beans"
+    "To serve: rice, (2) 12 oz bags frozen cut green beans, roasted with 2 tbsp olive oil and salt"
   ],
   "steps": [
     {
-      "do": "Heat the oven to 400°F and start the rice cooker (or use microwave rice).",
+      "do": "Heat one oven to 425°F for the green beans and the other to 400°F for the salmon. Start the rice cooker (or use microwave rice). Spread the frozen green beans (no need to thaw) on 2 sheet pans, toss with the oil and salt, and roast 20 to 25 minutes, stirring halfway, until browned in spots.",
       "need": [
         [
           "",
           "Rice"
+        ],
+        [
+          "(2) 12 oz bags",
+          "frozen cut green beans"
+        ],
+        [
+          "2 tbsp",
+          "olive oil"
+        ],
+        [
+          "1/2 tsp",
+          "salt"
         ]
       ]
     },
@@ -105,19 +117,14 @@
       ]
     },
     {
-      "do": "Steam the green beans in the microwave per the bag. Spoon the sauce over the salmon and serve with rice and green beans.",
-      "need": [
-        [
-          "(2) 12 oz bags",
-          "frozen cut green beans"
-        ]
-      ]
+      "do": "Spoon the sauce over the salmon and serve with rice and the roasted green beans.",
+      "need": []
     }
   ],
   "changes": [
     "3.5 lb salmon instead of 1.5 lb and the sauce doubled, for 8 portions at 40g+ protein.",
     "Salmon baked on sheet pans instead of pan-seared in batches, so a triple-size batch still takes about 30 minutes.",
     "One garlic & herb shaker instead of separate pepper and garlic powder.",
-    "Green beans on the side as the vegetable."
+    "Green beans roasted in the second oven on the side, instead of steamed."
   ]
 }
