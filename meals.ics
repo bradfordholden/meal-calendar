@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
 UID:dinner-2026-10-18@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261018T213000Z
 DTEND:20261018T223000Z
 SUMMARY:Dinner: Slow-cooker turkey chili (double batch)
@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-10-18@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261018T164500Z
 DTEND:20261018T170000Z
 SUMMARY:Start dinner: Slow-cooker turkey chili (double batch)
@@ -33,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-19@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261019T213000Z
 DTEND:20261019T223000Z
 SUMMARY:Dinner: Sheet-pan chicken fajitas
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-20@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261020T213000Z
 DTEND:20261020T223000Z
 SUMMARY:Dinner: Protein pasta with Rao's and ground beef\, roasted broccoli
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-21@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261021T213000Z
 DTEND:20261021T223000Z
 SUMMARY:Dinner: Blackened salmon rice bowls
@@ -71,7 +71,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-22@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261022T213000Z
 DTEND:20261022T223000Z
 SUMMARY:Dinner: Butter chicken with spinach over rice
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-25@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261025T213000Z
 DTEND:20261025T223000Z
 SUMMARY:Dinner: Slow cooker Thai peanut chicken with sweet potatoes over ri
@@ -98,7 +98,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-10-25@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261025T173000Z
 DTEND:20261025T174500Z
 SUMMARY:Start dinner: Slow cooker Thai peanut chicken with sweet potatoes o
@@ -110,7 +110,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-26@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261026T213000Z
 DTEND:20261026T223000Z
 SUMMARY:Dinner: Flank steak rice bowls with Japanese BBQ sauce and roasted 
@@ -124,23 +124,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-27@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261027T213000Z
 DTEND:20261027T223000Z
-SUMMARY:Dinner: Creamy Tuscan salmon with spinach\, rice and roasted green 
- beans
+SUMMARY:Dinner: Creamy Tuscan salmon with spinach\, rice and green beans
 DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/tuscan
- -salmon-spinach/\nAbout 30 min: start the rice and get the green beans roa
- sting in the second oven at 425°F first\, then the salmon bakes at 400°F
- . Move 3 lb chicken to the fridge tonight for Thursday's soup.\nPrep 10 mi
- n / Cook 20 min\nOriginal: https://natashaskitchen.com/tuscan-salmon-recip
- e/
+ -salmon-spinach/\nAbout 30 min: start the rice first\, salmon bakes on she
+ et pans. Move 3 lb chicken to the fridge tonight for Thursday's soup.\nPre
+ p 10 min / Cook 20 min\nOriginal: https://natashaskitchen.com/tuscan-salmo
+ n-recipe/
 URL:https://bradfordholden.github.io/meal-calendar/r/tuscan-salmon-spinach/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-28@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261028T213000Z
 DTEND:20261028T223000Z
 SUMMARY:Dinner: Pre-made crock pot beef meal
@@ -151,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-29@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261027T201009Z
+DTSTAMP:20261025T165153Z
 DTSTART:20261029T213000Z
 DTEND:20261029T223000Z
 SUMMARY:Dinner: Chicken noodle soup
