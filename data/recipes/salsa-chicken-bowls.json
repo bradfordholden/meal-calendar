@@ -1,0 +1,91 @@
+{
+  "title": "Slow cooker salsa chicken bowls with black beans and corn",
+  "kind": "new",
+  "source": {
+    "name": "Skinnytaste: Slow Cooker Salsa Chicken with Black Beans and Corn",
+    "url": "https://www.skinnytaste.com/slow-cooker-salsa-chicken-with-black-beans-and-corn"
+  },
+  "portions": 8,
+  "prep": "5 min in the morning, 5 min at dinner",
+  "cook": "6 to 8 hours on low",
+  "protein": "about 42g per adult portion",
+  "equipment": "6 qt slow cooker, rice cooker",
+  "ingredients": [
+    "3 lb boneless skinless chicken breast",
+    "(2) 12 oz bags frozen corn",
+    "(2) 15 oz cans black beans, rinsed and drained",
+    "1 1/2 tsp salt",
+    "1 1/2 tsp ground cumin",
+    "1/2 tsp dried minced garlic",
+    "(2) 16 oz jars mild chunky salsa",
+    "(1) 8 oz bag shredded cheddar",
+    "To serve: rice (about 4 cups uncooked), cilantro, avocado"
+  ],
+  "steps": [
+    {
+      "do": "Morning: put the corn and black beans in the slow cooker.",
+      "need": [
+        [
+          "(2) 12 oz bags",
+          "frozen corn"
+        ],
+        [
+          "(2) 15 oz cans",
+          "black beans, rinsed and drained"
+        ]
+      ]
+    },
+    {
+      "do": "Season the chicken with salt, cumin and garlic, lay it on top and pour the salsa over. Cook on low 6 to 8 hours (set it to switch to warm after 7 hours if it can).",
+      "need": [
+        [
+          "3 lb",
+          "chicken breast"
+        ],
+        [
+          "1 1/2 tsp",
+          "salt"
+        ],
+        [
+          "1 1/2 tsp",
+          "ground cumin"
+        ],
+        [
+          "1/2 tsp",
+          "dried minced garlic"
+        ],
+        [
+          "(2) 16 oz jars",
+          "mild chunky salsa"
+        ]
+      ]
+    },
+    {
+      "do": "About 30 minutes before dinner, start the rice.",
+      "need": [
+        [
+          "about 4 cups",
+          "rice, uncooked"
+        ]
+      ]
+    },
+    {
+      "do": "Shred the chicken with two forks right in the pot, sprinkle the cheese on top, cover 5 minutes to melt. Serve over rice with a slotted spoon, with cilantro and avocado.",
+      "need": [
+        [
+          "(1) 8 oz bag",
+          "shredded cheddar"
+        ],
+        [
+          "",
+          "cilantro, avocado"
+        ]
+      ]
+    }
+  ],
+  "changes": [
+    "Scaled 3x for 8 portions at 40g+ protein.",
+    "Adobo swapped for salt; garlic powder swapped for dried minced garlic from the pantry.",
+    "Regular shredded cheddar."
+  ]
+}

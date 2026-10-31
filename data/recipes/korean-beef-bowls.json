@@ -1,0 +1,103 @@
+{
+  "title": "Korean ground beef rice bowls with steamed broccoli",
+  "kind": "new",
+  "source": {
+    "name": "Damn Delicious: Korean Beef Bowl",
+    "url": "https://damndelicious.net/korean-beef-bowl"
+  },
+  "portions": 8,
+  "prep": "10 min",
+  "cook": "20 min (about 30 total)",
+  "protein": "about 40g per adult portion",
+  "equipment": "Large skillet, rice cooker, microwave",
+  "ingredients": [
+    "3 1/2 lb lean ground beef (90/10)",
+    "1 tbsp avocado oil",
+    "1 head garlic (about 10 cloves), minced",
+    "1/2 cup packed brown sugar (half the recipe's amount, scaled)",
+    "3/4 cup reduced-sodium soy sauce",
+    "2 tbsp toasted sesame oil",
+    "1 tsp ground ginger",
+    "1 bunch green onions, sliced",
+    "1 tbsp sesame seeds",
+    "(2) 12 oz bags frozen steam-in-bag broccoli",
+    "To serve: rice (about 4 cups uncooked)"
+  ],
+  "steps": [
+    {
+      "do": "Start the rice. Whisk the brown sugar, soy sauce, sesame oil and ground ginger in a bowl.",
+      "need": [
+        [
+          "about 4 cups",
+          "rice, uncooked"
+        ],
+        [
+          "1/2 cup",
+          "brown sugar"
+        ],
+        [
+          "3/4 cup",
+          "reduced-sodium soy sauce"
+        ],
+        [
+          "2 tbsp",
+          "toasted sesame oil"
+        ],
+        [
+          "1 tsp",
+          "ground ginger"
+        ]
+      ]
+    },
+    {
+      "do": "Heat the oil in a large skillet over medium-high heat and cook the garlic about 1 minute.",
+      "need": [
+        [
+          "1 tbsp",
+          "avocado oil"
+        ],
+        [
+          "1 head",
+          "garlic, minced"
+        ]
+      ]
+    },
+    {
+      "do": "Add the beef and cook 6 to 8 minutes, crumbling it, until browned. Drain the fat. (Do it in 2 batches if the skillet is crowded.)",
+      "need": [
+        [
+          "3 1/2 lb",
+          "lean ground beef"
+        ]
+      ]
+    },
+    {
+      "do": "Stir in the sauce and most of the green onions and simmer 2 minutes. Meanwhile microwave the broccoli bags.",
+      "need": [
+        [
+          "1 bunch",
+          "green onions, sliced"
+        ],
+        [
+          "(2) 12 oz bags",
+          "steam-in-bag broccoli"
+        ]
+      ]
+    },
+    {
+      "do": "Serve the beef over rice with broccoli on the side, topped with the rest of the green onions and the sesame seeds. Sriracha at the table for adults.",
+      "need": [
+        [
+          "1 tbsp",
+          "sesame seeds"
+        ]
+      ]
+    }
+  ],
+  "changes": [
+    "Scaled 3.5x for 8 portions at about 40g protein.",
+    "Brown sugar halved to keep sugar down (about 9g per portion).",
+    "Red pepper flakes left out for the kids; sriracha at the table instead.",
+    "Steam-in-bag broccoli on the side as the vegetable."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Goodles mac and cheese with meatballs, green beans",
+  "kind": "favorite",
+  "portions": 8,
+  "prep": "5 min",
+  "cook": "20 min (about 25 total)",
+  "ingredients": [
+    "4 boxes Goodles mac and cheese, plus the milk and butter the box calls for",
+    "About 3 lb frozen meatballs",
+    "BBQ sauce, a light drizzle (it's sugary)",
+    "(2) 12 oz bags frozen cut green beans"
+  ],
+  "steps": [
+    {
+      "do": "Heat the oven and put the meatballs in first, per the bag (about 20 minutes).",
+      "need": [
+        [
+          "about 3 lb",
+          "frozen meatballs"
+        ]
+      ]
+    },
+    {
+      "do": "Meanwhile cook the Goodles per the box.",
+      "need": [
+        [
+          "4 boxes",
+          "Goodles mac and cheese"
+        ],
+        [
+          "",
+          "milk and butter, per the box"
+        ]
+      ]
+    },
+    {
+      "do": "Steam the green beans in the microwave and season with salt, pepper and a little butter.",
+      "need": [
+        [
+          "(2) 12 oz bags",
+          "frozen cut green beans"
+        ],
+        [
+          "",
+          "salt, pepper and a little butter"
+        ]
+      ]
+    },
+    {
+      "do": "Toss the meatballs with a little BBQ sauce and serve with the mac and green beans.",
+      "need": [
+        [
+          "",
+          "BBQ sauce, a light drizzle"
+        ]
+      ]
+    }
+  ]
+}

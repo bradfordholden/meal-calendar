@@ -1,0 +1,30 @@
+{
+  "week_start": "2026-11-01",
+  "dinners": [
+    {
+      "date": "2026-11-01",
+      "day": "Sun",
+      "recipe": "thai-yellow-chicken-curry",
+      "heads_up": "About 55 min, one pot plus the rice cooker. Move 3 lb chicken to the fridge Saturday night."
+    },
+    {
+      "date": "2026-11-02",
+      "day": "Mon",
+      "recipe": "goodles-mac-meatballs",
+      "heads_up": "About 25 min: meatballs in the oven first, Goodles on the stove, green beans in the microwave."
+    },
+    {
+      "date": "2026-11-04",
+      "day": "Wed",
+      "recipe": "korean-beef-bowls",
+      "heads_up": "About 30 min: start the rice first. Move 3 lb chicken to the fridge tonight for Thursday."
+    },
+    {
+      "date": "2026-11-05",
+      "day": "Thu",
+      "recipe": "salsa-chicken-bowls",
+      "start_at": "09:00",
+      "heads_up": "Start the crock pot by 9:00 am (5 min, dump and go). At dinner just make rice and add cheese."
+    }
+  ]
+}
