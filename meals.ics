@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
 UID:dinner-2026-10-18@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261018T213000Z
 DTEND:20261018T223000Z
 SUMMARY:Dinner: Slow-cooker turkey chili (double batch)
@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-10-18@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261018T164500Z
 DTEND:20261018T170000Z
 SUMMARY:Start dinner: Slow-cooker turkey chili (double batch)
@@ -33,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-19@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261019T213000Z
 DTEND:20261019T223000Z
 SUMMARY:Dinner: Sheet-pan chicken fajitas
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-20@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261020T213000Z
 DTEND:20261020T223000Z
 SUMMARY:Dinner: Protein pasta with Rao's and ground beef\, roasted broccoli
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-21@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261021T213000Z
 DTEND:20261021T223000Z
 SUMMARY:Dinner: Blackened salmon rice bowls
@@ -71,7 +71,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-22@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261022T213000Z
 DTEND:20261022T223000Z
 SUMMARY:Dinner: Butter chicken with spinach over rice
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-25@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261025T213000Z
 DTEND:20261025T223000Z
 SUMMARY:Dinner: Slow cooker Thai peanut chicken with sweet potatoes over ri
@@ -98,7 +98,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-10-25@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261025T173000Z
 DTEND:20261025T174500Z
 SUMMARY:Start dinner: Slow cooker Thai peanut chicken with sweet potatoes o
@@ -110,7 +110,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-26@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261026T213000Z
 DTEND:20261026T223000Z
 SUMMARY:Dinner: Flank steak rice bowls with Japanese BBQ sauce and roasted 
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-27@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261027T213000Z
 DTEND:20261027T223000Z
 SUMMARY:Dinner: Creamy Tuscan salmon with spinach\, rice and green beans
@@ -138,7 +138,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-28@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261028T213000Z
 DTEND:20261028T223000Z
 SUMMARY:Dinner: Pre-made crock pot beef meal
@@ -149,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-29@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261029T213000Z
 DTEND:20261029T223000Z
 SUMMARY:Dinner: Chicken noodle soup
@@ -162,7 +162,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-01@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261101T223000Z
 DTEND:20261101T233000Z
 SUMMARY:Dinner: Thai yellow chicken curry over jasmine rice
@@ -177,7 +177,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-02@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261102T223000Z
 DTEND:20261102T233000Z
 SUMMARY:Dinner: Goodles mac and cheese with meatballs\, green beans
@@ -190,7 +190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-04@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261104T223000Z
 DTEND:20261104T233000Z
 SUMMARY:Dinner: Korean ground beef rice bowls with steamed broccoli
@@ -203,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-05@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261105T223000Z
 DTEND:20261105T233000Z
 SUMMARY:Dinner: Slow cooker salsa chicken bowls with black beans and corn
@@ -217,7 +217,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-11-05@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261031T141003Z
+DTSTAMP:20261107T150553Z
 DTSTART:20261105T140000Z
 DTEND:20261105T141500Z
 SUMMARY:Start dinner: Slow cooker salsa chicken bowls with black beans and 
@@ -226,6 +226,87 @@ DESCRIPTION:Start the crock pot by 9:00 am (5 min\, dump and go). At dinner
   just make rice and add cheese.\nRecipe: https://bradfordholden.github.io/
  meal-calendar/r/salsa-chicken-bowls/
 URL:https://bradfordholden.github.io/meal-calendar/r/salsa-chicken-bowls/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-11-08@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261107T150553Z
+DTSTART:20261108T223000Z
+DTEND:20261108T233000Z
+SUMMARY:Dinner: Crock pot beef stew
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/crockp
+ ot-beef-stew/\nStart the crock pot by 8:30 am (about 30 min: brown the bee
+ f\, then dump in the rest). 20 min before dinner\, thicken and add peas.\n
+ Prep 30 min in the morning\, 15 min at the end / Cook 8 to 9 hours on low\
+ nOriginal: https://www.spendwithpennies.com/crockpot-beef-stew/
+URL:https://bradfordholden.github.io/meal-calendar/r/crockpot-beef-stew/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:start-2026-11-08@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261107T150553Z
+DTSTART:20261108T133000Z
+DTEND:20261108T134500Z
+SUMMARY:Start dinner: Crock pot beef stew
+DESCRIPTION:Start the crock pot by 8:30 am (about 30 min: brown the beef\, 
+ then dump in the rest). 20 min before dinner\, thicken and add peas.\nReci
+ pe: https://bradfordholden.github.io/meal-calendar/r/crockpot-beef-stew/
+URL:https://bradfordholden.github.io/meal-calendar/r/crockpot-beef-stew/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-11-09@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261107T150553Z
+DTSTART:20261109T223000Z
+DTEND:20261109T233000Z
+SUMMARY:Dinner: Blackened salmon rice bowls
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/blacke
+ ned-salmon-bowls/\nAbout 25 min: rice cooker plus salmon in the oven. Move
+  the salmon to the fridge Sunday night if frozen.\nPrep 10 min / Cook 20 m
+ in
+URL:https://bradfordholden.github.io/meal-calendar/r/blackened-salmon-bowls
+ /
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-11-10@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261107T150553Z
+DTSTART:20261110T223000Z
+DTEND:20261110T233000Z
+SUMMARY:Dinner: Teriyaki chicken stir fry over rice
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/teriya
+ ki-chicken-stir-fry/\nAbout 30 min with store-bought teriyaki sauce. Start
+  the rice first.\nPrep 10 min / Cook 20 min\nOriginal: https://www.wellpla
+ ted.com/teriyaki-chicken-stir-fry/
+URL:https://bradfordholden.github.io/meal-calendar/r/teriyaki-chicken-stir-
+ fry/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-11-11@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261107T150553Z
+DTSTART:20261111T223000Z
+DTEND:20261111T233000Z
+SUMMARY:Dinner: Sheet pan chicken and green beans with lemon feta
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/sheet-
+ pan-chicken-green-beans/\nAbout 35 min: 2 sheet pans in the oven\, stir th
+ e feta topping while it bakes.\nPrep 10 min / Cook 25 min\nOriginal: https
+ ://biteswithbri.com/sheet-pan-chicken-green-beans/
+URL:https://bradfordholden.github.io/meal-calendar/r/sheet-pan-chicken-gree
+ n-beans/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-11-12@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261107T150553Z
+DTSTART:20261112T223000Z
+DTEND:20261112T233000Z
+SUMMARY:Dinner: Protein pasta with Rao's and ground beef\, roasted broccoli
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/protei
+ n-pasta-raos-beef/\nAbout 25 min. Move 2.5 lb ground beef to the fridge We
+ dnesday night if frozen.\nPrep 10 min / Cook 20 min
+URL:https://bradfordholden.github.io/meal-calendar/r/protein-pasta-raos-bee
+ f/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

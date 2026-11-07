@@ -1,0 +1,91 @@
+{
+  "title": "Teriyaki chicken stir fry over rice",
+  "kind": "new",
+  "source": {
+    "name": "Well Plated: Teriyaki Chicken Stir Fry",
+    "url": "https://www.wellplated.com/teriyaki-chicken-stir-fry/"
+  },
+  "portions": 8,
+  "prep": "10 min",
+  "cook": "20 min",
+  "protein": "about 44g per adult portion",
+  "equipment": "large deep skillet or wok, rice cooker",
+  "ingredients": [
+    "3 1/2 lb boneless skinless chicken breast, bite size pieces",
+    "2 tbsp olive oil, divided",
+    "2 red bell peppers, strips",
+    "2 lb broccoli crowns, small florets",
+    "(2) 8 oz cans sliced water chestnuts, drained",
+    "About 1 1/2 cups store-bought teriyaki sauce (2 bottles, about 10 oz each)",
+    "1 bunch green onions, chopped, divided",
+    "2 tbsp sesame seeds",
+    "Rice, about 4 cups uncooked"
+  ],
+  "steps": [
+    {
+      "do": "Start the rice.",
+      "need": [
+        [
+          "about 4 cups",
+          "rice, uncooked"
+        ]
+      ]
+    },
+    {
+      "do": "Heat 1 tbsp oil in the big skillet over medium-high. Cook the chicken in 2 batches, 4 to 6 min until cooked through. Move to a plate.",
+      "need": [
+        [
+          "1 tbsp",
+          "olive oil"
+        ],
+        [
+          "3 1/2 lb",
+          "chicken breast, bite size"
+        ]
+      ]
+    },
+    {
+      "do": "Add the last 1 tbsp oil, then the peppers and broccoli; cook 4 to 5 min until crisp-tender.",
+      "need": [
+        [
+          "1 tbsp",
+          "olive oil"
+        ],
+        [
+          "2",
+          "red bell peppers, strips"
+        ],
+        [
+          "2 lb",
+          "broccoli florets"
+        ]
+      ]
+    },
+    {
+      "do": "Add the water chestnuts and chicken, pour in the teriyaki sauce, toss and simmer 1 to 2 min. Stir in half the green onions; top with the rest and the sesame seeds. Serve over rice.",
+      "need": [
+        [
+          "(2) 8 oz cans",
+          "water chestnuts, drained"
+        ],
+        [
+          "about 1 1/2 cups",
+          "teriyaki sauce"
+        ],
+        [
+          "1 bunch",
+          "green onions"
+        ],
+        [
+          "2 tbsp",
+          "sesame seeds"
+        ]
+      ]
+    }
+  ],
+  "changes": [
+    "Chicken 3 1/2 lb for 8 portions at 40g+ protein.",
+    "Store-bought teriyaki sauce instead of the homemade sauce (Brad, 2026-11-07).",
+    "Broccoli as the mixed vegetable."
+  ]
+}
