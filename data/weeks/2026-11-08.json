@@ -1,36 +1,10 @@
 {
   "week_start": "2026-11-08",
   "dinners": [
-    {
-      "date": "2026-11-08",
-      "day": "Sun",
-      "recipe": "crockpot-beef-stew",
-      "start_at": "08:30",
-      "heads_up": "Start the crock pot by 8:30 am (about 30 min: brown the beef, then dump in the rest). 20 min before dinner, thicken and add peas."
-    },
-    {
-      "date": "2026-11-09",
-      "day": "Mon",
-      "recipe": "blackened-salmon-bowls",
-      "heads_up": "About 25 min: rice cooker plus salmon in the oven. Move the salmon to the fridge Sunday night if frozen."
-    },
-    {
-      "date": "2026-11-10",
-      "day": "Tue",
-      "recipe": "teriyaki-chicken-stir-fry",
-      "heads_up": "About 30 min with store-bought teriyaki sauce. Start the rice first."
-    },
-    {
-      "date": "2026-11-11",
-      "day": "Wed",
-      "recipe": "sheet-pan-chicken-green-beans",
-      "heads_up": "About 35 min: 2 sheet pans in the oven, stir the feta topping while it bakes."
-    },
-    {
-      "date": "2026-11-12",
-      "day": "Thu",
-      "recipe": "protein-pasta-raos-beef",
-      "heads_up": "About 25 min. Move 2.5 lb ground beef to the fridge Wednesday night if frozen."
-    }
+    {"date": "2026-11-08", "day": "Sun", "recipe": "crockpot-beef-stew", "start_at": "08:30", "heads_up": "Start the crock pot by 8:30 am (about 30 min: brown the beef, then dump in the rest). 20 min before dinner, thicken and add peas."},
+    {"date": "2026-11-09", "day": "Mon", "recipe": "blackened-salmon-bowls", "heads_up": "About 25 min: rice cooker plus salmon in the oven. Move the salmon to the fridge Sunday night if frozen."},
+    {"date": "2026-11-12", "day": "Thu", "recipe": "teriyaki-chicken-stir-fry", "heads_up": "About 30 min with store-bought teriyaki sauce. Start the rice first. Move the chicken breasts to the fridge Wednesday night if frozen."},
+    {"date": "2026-11-13", "day": "Fri", "recipe": "sheet-pan-chicken-green-beans", "heads_up": "About 35 min: 2 sheet pans in the oven, stir the feta topping while it bakes. Move the thighs to the fridge Thursday night if frozen."},
+    {"date": "2026-11-14", "day": "Sat", "recipe": "protein-pasta-raos-beef", "heads_up": "About 25 min. Move 2.5 lb ground beef to the fridge Friday night if frozen."}
   ]
 }
