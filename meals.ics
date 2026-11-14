@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
 UID:dinner-2026-10-18@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261018T213000Z
 DTEND:20261018T223000Z
 SUMMARY:Dinner: Slow-cooker turkey chili (double batch)
@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-10-18@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261018T164500Z
 DTEND:20261018T170000Z
 SUMMARY:Start dinner: Slow-cooker turkey chili (double batch)
@@ -33,7 +33,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-19@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261019T213000Z
 DTEND:20261019T223000Z
 SUMMARY:Dinner: Sheet-pan chicken fajitas
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-20@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261020T213000Z
 DTEND:20261020T223000Z
 SUMMARY:Dinner: Protein pasta with Rao's and ground beef\, roasted broccoli
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-21@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261021T213000Z
 DTEND:20261021T223000Z
 SUMMARY:Dinner: Blackened salmon rice bowls
@@ -71,7 +71,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-22@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261022T213000Z
 DTEND:20261022T223000Z
 SUMMARY:Dinner: Butter chicken with spinach over rice
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-25@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261025T213000Z
 DTEND:20261025T223000Z
 SUMMARY:Dinner: Slow cooker Thai peanut chicken with sweet potatoes over ri
@@ -98,7 +98,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-10-25@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261025T173000Z
 DTEND:20261025T174500Z
 SUMMARY:Start dinner: Slow cooker Thai peanut chicken with sweet potatoes o
@@ -110,7 +110,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-26@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261026T213000Z
 DTEND:20261026T223000Z
 SUMMARY:Dinner: Flank steak rice bowls with Japanese BBQ sauce and roasted 
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-27@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261027T213000Z
 DTEND:20261027T223000Z
 SUMMARY:Dinner: Creamy Tuscan salmon with spinach\, rice and green beans
@@ -138,7 +138,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-28@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261028T213000Z
 DTEND:20261028T223000Z
 SUMMARY:Dinner: Pre-made crock pot beef meal
@@ -149,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-10-29@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261029T213000Z
 DTEND:20261029T223000Z
 SUMMARY:Dinner: Chicken noodle soup
@@ -162,7 +162,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-01@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261101T223000Z
 DTEND:20261101T233000Z
 SUMMARY:Dinner: Thai yellow chicken curry over jasmine rice
@@ -177,7 +177,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-02@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261102T223000Z
 DTEND:20261102T233000Z
 SUMMARY:Dinner: Goodles mac and cheese with meatballs\, green beans
@@ -190,7 +190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-04@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261104T223000Z
 DTEND:20261104T233000Z
 SUMMARY:Dinner: Korean ground beef rice bowls with steamed broccoli
@@ -203,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-05@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261105T223000Z
 DTEND:20261105T233000Z
 SUMMARY:Dinner: Slow cooker salsa chicken bowls with black beans and corn
@@ -217,7 +217,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-11-05@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261105T140000Z
 DTEND:20261105T141500Z
 SUMMARY:Start dinner: Slow cooker salsa chicken bowls with black beans and 
@@ -230,7 +230,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-08@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261108T223000Z
 DTEND:20261108T233000Z
 SUMMARY:Dinner: Crock pot beef stew
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:start-2026-11-08@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261108T133000Z
 DTEND:20261108T134500Z
 SUMMARY:Start dinner: Crock pot beef stew
@@ -256,7 +256,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-09@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261109T223000Z
 DTEND:20261109T233000Z
 SUMMARY:Dinner: Blackened salmon rice bowls
@@ -270,7 +270,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-12@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261112T223000Z
 DTEND:20261112T233000Z
 SUMMARY:Dinner: Teriyaki chicken stir fry over rice
@@ -285,7 +285,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-13@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261113T223000Z
 DTEND:20261113T233000Z
 SUMMARY:Dinner: Sheet pan chicken and green beans with lemon feta
@@ -300,7 +300,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dinner-2026-11-14@meal-calendar.bradfordholden.github.io
-DTSTAMP:20261111T155427Z
+DTSTAMP:20261114T153542Z
 DTSTART:20261114T223000Z
 DTEND:20261114T233000Z
 SUMMARY:Dinner: Protein pasta with Rao's and ground beef\, roasted broccoli
@@ -309,6 +309,95 @@ DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/protei
  iday night if frozen.\nPrep 10 min / Cook 20 min
 URL:https://bradfordholden.github.io/meal-calendar/r/protein-pasta-raos-bee
  f/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-11-15@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261114T153542Z
+DTSTART:20261115T223000Z
+DTEND:20261115T233000Z
+SUMMARY:Dinner: Sweet potato shepherd's pie with beef and corn
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/sweet-
+ potato-shepherds-pie/\nSunday bulk meal\, about 75 min (microwave the swee
+ t potatoes in 2 batches while the beef browns\, then bake 30 min). Move 3.
+ 5 lb ground beef to the fridge Saturday night if frozen.\nPrep about 40 mi
+ n / Cook 30 min bake (about 75 total\, Sunday bulk meal)\nOriginal: https:
+ //www.tasteofhome.com/recipes/sweet-potato-shepherd-s-pie/
+URL:https://bradfordholden.github.io/meal-calendar/r/sweet-potato-shepherds
+ -pie/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-11-16@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261114T153542Z
+DTSTART:20261116T223000Z
+DTEND:20261116T233000Z
+SUMMARY:Dinner: Goodles mac and cheese with meatballs\, buttered corn
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/goodle
+ s-mac-meatballs-corn/\nAbout 25 min: meatballs in the oven\, Goodles on th
+ e stove\, corn in the microwave.\nPrep 5 min / Cook 20 min (about 25 total
+ )
+URL:https://bradfordholden.github.io/meal-calendar/r/goodles-mac-meatballs-
+ corn/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-11-17@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261114T153542Z
+DTSTART:20261117T223000Z
+DTEND:20261117T233000Z
+SUMMARY:Dinner: One-pot chicken broccoli ziti
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/chicke
+ n-broccoli-ziti/\nHIGH EFFORT\, about 50 min\, needs full attention (seari
+ ng in 2 batches and stirring the pasta). One pot. Move 2.5 lb chicken brea
+ st to the fridge Monday night if frozen.\nPrep 10 min / Cook about 40 min 
+ (our estimate about 50 total\; recipe says 30)\nOriginal: https://www.well
+ plated.com/chicken-broccoli-ziti/
+URL:https://bradfordholden.github.io/meal-calendar/r/chicken-broccoli-ziti/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-11-18@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261114T153542Z
+DTSTART:20261118T223000Z
+DTEND:20261118T233000Z
+SUMMARY:Dinner: Ground beef rice bowls with Japanese BBQ sauce and roasted 
+ broccoli
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/beef-r
+ ice-bowls-broccoli/\nAbout 40 min: rice cooker\, broccoli roasting from fr
+ ozen\, beef in the skillet. Move 3.5 lb ground beef to the fridge Tuesday 
+ night if frozen.\nPrep 5 min / Cook about 35 min (our estimate about 40)
+URL:https://bradfordholden.github.io/meal-calendar/r/beef-rice-bowls-brocco
+ li/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-2026-11-19@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261114T153542Z
+DTSTART:20261119T223000Z
+DTEND:20261119T233000Z
+SUMMARY:Dinner: Slow cooker chicken and sausage jambalaya
+DESCRIPTION:Recipe: https://bradfordholden.github.io/meal-calendar/r/slow-c
+ ooker-jambalaya/\nStart the crock pot by 9:00 am on low (about 12 min: dic
+ e 2 peppers\, slice the sausage\, dump the rest). At dinner: rice cooker 3
+ 5 min\, shred the chicken. Move the chicken thighs to the fridge Wednesday
+  night if frozen.\nPrep about 12 min in the morning\, 10 min at dinner / C
+ ook 7 to 8 hours on low\nOriginal: https://www.budgetbytes.com/jambalaya/
+URL:https://bradfordholden.github.io/meal-calendar/r/slow-cooker-jambalaya/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:start-2026-11-19@meal-calendar.bradfordholden.github.io
+DTSTAMP:20261114T153542Z
+DTSTART:20261119T140000Z
+DTEND:20261119T141500Z
+SUMMARY:Start dinner: Slow cooker chicken and sausage jambalaya
+DESCRIPTION:Start the crock pot by 9:00 am on low (about 12 min: dice 2 pep
+ pers\, slice the sausage\, dump the rest). At dinner: rice cooker 35 min\,
+  shred the chicken. Move the chicken thighs to the fridge Wednesday night 
+ if frozen.\nRecipe: https://bradfordholden.github.io/meal-calendar/r/slow-
+ cooker-jambalaya/
+URL:https://bradfordholden.github.io/meal-calendar/r/slow-cooker-jambalaya/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
