@@ -1,1 +1,36 @@
-{"week_start":"2026-11-15","dinners":[{"date":"2026-11-15","day":"Sun","recipe":"sweet-potato-shepherds-pie","heads_up":"Sunday bulk meal, about 75 min (microwave the sweet potatoes in 2 batches while the beef browns, then bake 30 min). Move 3.5 lb ground beef to the fridge Saturday night if frozen."},{"date":"2026-11-16","day":"Mon","recipe":"goodles-mac-meatballs-corn","heads_up":"About 25 min: meatballs in the oven, Goodles on the stove, corn in the microwave."},{"date":"2026-11-17","day":"Tue","recipe":"chicken-broccoli-ziti","heads_up":"HIGH EFFORT, about 50 min, needs full attention (searing in 2 batches and stirring the pasta). One pot. Move 2.5 lb chicken breast to the fridge Monday night if frozen."},{"date":"2026-11-18","day":"Wed","recipe":"beef-rice-bowls-broccoli","heads_up":"About 40 min: rice cooker, broccoli roasting from frozen, beef in the skillet. Move 3.5 lb ground beef to the fridge Tuesday night if frozen."},{"date":"2026-11-19","day":"Thu","recipe":"slow-cooker-jambalaya","start_at":"09:00","heads_up":"Start the crock pot by 9:00 am on low (about 12 min: dice 2 peppers, slice the sausage, dump the rest). At dinner: rice cooker 35 min, shred the chicken. Move the chicken thighs to the fridge Wednesday night if frozen."}]}
+{
+  "week_start": "2026-11-15",
+  "dinners": [
+    {
+      "date": "2026-11-15",
+      "day": "Sun",
+      "recipe": "sweet-potato-shepherds-pie",
+      "heads_up": "Sunday bulk meal, about 75 min (microwave the sweet potatoes in 2 batches while the beef browns, then bake 30 min). Move 3.5 lb ground beef to the fridge Saturday night if frozen."
+    },
+    {
+      "date": "2026-11-16",
+      "day": "Mon",
+      "recipe": "slow-cooker-jambalaya",
+      "start_at": "09:00",
+      "heads_up": "Start the crock pot by 9:00 am on low (about 12 min: dice 2 peppers, slice the sausage, dump the rest). At dinner: rice cooker 35 min, shred the chicken. Move the chicken thighs to the fridge Sunday night if frozen."
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Tue",
+      "recipe": "chicken-broccoli-ziti",
+      "heads_up": "HIGH EFFORT, about 50 min, needs full attention (searing in 2 batches and stirring the pasta). One pot. Move 2.5 lb chicken breast to the fridge Monday night if frozen."
+    },
+    {
+      "date": "2026-11-18",
+      "day": "Wed",
+      "recipe": "beef-rice-bowls-broccoli",
+      "heads_up": "About 40 min: rice cooker, broccoli roasting from frozen, beef in the skillet. Move 3.5 lb ground beef to the fridge Tuesday night if frozen."
+    },
+    {
+      "date": "2026-11-19",
+      "day": "Thu",
+      "recipe": "goodles-mac-meatballs-corn",
+      "heads_up": "About 25 min: meatballs in the oven, Goodles on the stove, corn in the microwave."
+    }
+  ]
+}
